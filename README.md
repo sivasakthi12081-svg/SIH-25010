@@ -41,9 +41,9 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h1 align="center">App Name : Kisan Mitra AI</h1>
+<h1 align="center"><font color="green">App Name : Kisan Mitra AI</font></h1>
 <dl>
-  <dt>Reason for choosing this name:</dt>
+  <dt><font color="pink">Reason for choosing this name:</font></dt>
     <dd>
     <li> Kisan Mitra translates to "Farmer's Friend" in Hindi, making it relatable, accessible, and culturally resonant for small and marginal farmers in India (who form 86% of the farming community, as per the NABARD 2022 report).</li>
     <li>AI highlights the smart, technology-driven features like image-based pest detection, predictive weather insights, and personalized recommendations, aligning with the expected outcomes of increasing yields by 20–30% through ICT advisories.</li>
@@ -55,8 +55,8 @@ Agriculture, FoodTech & Rural Development
 ![alt text](<App Image in the MS-Word.png>)
 
 ## Technical Approach
-<h2>Frontend : React-JS</h2>
-  <h3>Reasons for Using React-JS in Frontend:</h3>
+<h2><font color="blue">Frontend : React-JS</font></h2>
+  <h3><font color="pink">Reasons for Using React-JS in Frontend:</font></h3>
   <ul>
     <li> Component-Based Architecture  </li> 
     <li> Efficient Rendering with Virtual DOM  </li> 
@@ -66,8 +66,8 @@ Agriculture, FoodTech & Rural Development
     <li> Declarative Syntax  </li> 
   </ul>
 
-<h2>Backend : Python(Flask/Django)</h2>
-  <h3>Reasons for Using Python (Flask/Django) in Backend:</h3>
+<h2><font color="blue">Backend : Python(Flask/Django)</font></h2>
+  <h3><font color="pink">Reasons for Using Python (Flask/Django) in Backend:</font></h3>
    <ul>
      <li> Ease of Use and Readability  </li> 
      <li> Framework Advantages  </li> 
@@ -76,8 +76,9 @@ Agriculture, FoodTech & Rural Development
      <li> Security Features  </li> 
      <li> Scalability  </li> 
    </ul>
-<h2>Database : MongoDB</h2>
-  <h3>Reasons for Using MongoDB in Database:</h3>
+<h2><font color="blue">Database : MongoDB</font></h2>
+  <h3><font color="pink">Reasons for Using MongoDB in Database:</font></h3>
+ 
   <ul>
     <li> NoSQL, Document-Oriented Database </li> 
     <li> High Scalability </li> 
@@ -86,8 +87,8 @@ Agriculture, FoodTech & Rural Development
     <li> Flexible Schema </li> 
     <li> Cloud-Friendly </li> 
   </ul>
-<h2>File Logic : Python</h2>
-  <h3>Reasons for Using Python in File Logic:</h3>
+<h2><font color="blue">File Logic : Python</font></h2>
+  <h3><font color="pink">Reasons for Using Python in File Logic:</font></h3>
   <ul>
      <li> Simple and Readable Syntax </li> 
      <li> Rich Standard Library </li> 
@@ -98,7 +99,7 @@ Agriculture, FoodTech & Rural Development
   </ul>
 
 ## Feasibility and Viability
-<h2>1. Feasibility</h2>
+<h2><font color="blue">1. Feasibility</font></h2>
 <dl>
         <dt>Technical :</dt>
            <dd> 
@@ -126,7 +127,7 @@ Agriculture, FoodTech & Rural Development
         </dd>
 </dl>
 <br>
-<h2>2. Potential Challenges and Risks</h2>
+<h2><font color="blue">2. Potential Challenges and Risks</font></h2>
 <dl>
         <dt>Internet Connectivity :	</dt>
             <dd><li>Rural areas may have intermittent or low-speed internet, affecting app usage.v</dd>
@@ -142,7 +143,7 @@ Agriculture, FoodTech & Rural Development
             <dd><li>Personal data, farm details, and uploaded files must be securely stored to prevent misuse.</li></dd>
 </dl>
 <br>
-<h2>3. Strategies for Overcoming Challenges</h2>
+<h2><font color="blue">3. Strategies for Overcoming Challenges</font></h2>
  <dl>
         <dt>Internet Connectivity :	</dt>
         <dd>
@@ -177,7 +178,7 @@ Agriculture, FoodTech & Rural Development
 </dl>
 
 ## Impact and Benefits
-<b><h2>Potential Impact on the Target Audience:</h2></b>
+<b><h2><font color="blue">Potential Impact on the Target Audience:</font></h2></b>
 <dl>
         <dt>Empowered Decision-Making:</dt> 
             <dd><li>Small and marginal farmers gain access to personalized, real-time crop advisory based on their specific location, soil type, and weather
@@ -195,8 +196,8 @@ Agriculture, FoodTech & Rural Development
 </dl>
 <br>
 
-<b><h2>Benefits of the Solution:</h2></b>
-<h3>1.Social Benefits</h3>
+<b><h2><font color="blue">Benefits of the Solution:</font></h2></b>
+<h3><font color="pink">1.Social Benefits</font></h3>
 <dl>
          <dt>Improved Livelihoods: </dt> 
             <dd><li>Higher yields and better market prices increase farmers’ income, improving their quality of life.</li></dd>
@@ -206,7 +207,7 @@ Agriculture, FoodTech & Rural Development
             <dd><li>The app fosters a culture of scientific farming practices and continuous learning among rural communities.</li></dd>
 </dl>
         
-<h3>2.Economic Benefits</h3>
+<h3><font color="pink">2.Economic Benefits</font></h3>
 <dl>
          <dt>Cost Savings: </dt> 
             <dd><li>Optimized use of fertilizers and pesticides reduces input costs.</li></dd>
@@ -216,7 +217,7 @@ Agriculture, FoodTech & Rural Development
             <dd><li>The app creates opportunities for innovation and business growth in the agricultural technology sector.v</dd>
 </dl>
 
-<h3>3.Environmental Benefits</h3>
+<h3><font color="pink">3.Environmental Benefits</font></h3>
 <dl>
          <dt>Sustainable Farming Practices:</dt> 
             <dd><li>Recommendations based on soil health and pest monitoring reduce overuse of chemicals, preserving soil and water quality.</li></dd>
